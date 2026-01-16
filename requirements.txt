@@ -1,0 +1,13 @@
+langchain
+langchain-community
+azure-storage-blob
+chromadb
+openai
+python-dotenv
+pypdf
+fastapi
+uvicorn
+azure-search-documents
+langchain-openai
+azure-identity
+python-multipart

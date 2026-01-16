@@ -1,0 +1,9 @@
+#environments
+.env
+
+#jupyter notebook
+.ipynb_checkpoints
+test.ipynb
+
+#folders
+data/
