@@ -3,6 +3,7 @@ RAG application using Azure Blob Storage, Azure AI Search, Azure AI Foundry. Hos
 
 ## Project Structure
 
+```markdown  
 azure-rag-app/
 │
 ├── app/
@@ -19,3 +20,4 @@ azure-rag-app/
 ├── .env                       # Secrets (ignored in git)
 ├── requirements.txt
 └── README.md
+```
