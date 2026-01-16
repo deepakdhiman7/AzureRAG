@@ -1,3 +1,6 @@
+# AzureRAG
+RAG application using Azure Blob Storage, Azure AI Search, Azure AI Foundry. Hosted on Azure WebApp
+
 ## Project Structure
 
 azure-rag-app/
