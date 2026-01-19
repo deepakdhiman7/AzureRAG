@@ -71,7 +71,8 @@ jobs:
         uses: azure/webapps-deploy@v3
         id: deploy-to-webapp
         with:
-          app-name: 'AzureRAG-free-tier'
+          app-name: 'rag-project-free-tier-2'
           slot-name: 'Production'
 
           
+
