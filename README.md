@@ -21,3 +21,6 @@ azure-rag-app/
 ├── requirements.txt
 └── README.md
 ```
+
+## Start Project
+uvicorn app.main:app
